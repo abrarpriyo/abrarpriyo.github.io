@@ -8,7 +8,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url("https://github.com/abrarpriyo/abrarpriyo.github.io/blob/main/image/6bly12umg2d4psr2.jpg" );
+    background-image: url("/main/image/6bly12umg2d4psr2.jpg");
     background-size: cover;
     background-position: center;
 }
